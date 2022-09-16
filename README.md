@@ -1,4 +1,4 @@
-# Torrens University - ISE103 Assessment 2: Adventure!
+# Torrens University - ISE102 Assessment 2: Adventure!
 
 ## Skills Practiced:  
 - Creating + using functions with arguments and return values   
